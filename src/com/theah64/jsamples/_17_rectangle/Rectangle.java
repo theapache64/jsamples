@@ -1,4 +1,4 @@
-package com.theah64.jsamples._17;
+package com.theah64.jsamples._17_rectangle;
 
 
 import java.applet.Applet;
