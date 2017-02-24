@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4763758b-d37f-418e-8ebb-0a25dfba6d1f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/theah64/jsamples/_20_mouse/MouseXY.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/theah64/jsamples/_4_triangle/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/theah64/jsamples/_4_triangle/Main.java" afterPath="$PROJECT_DIR$/src/com/theah64/jsamples/_4_triangle/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,8 +78,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/theah64/jsamples/_4_triangle/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            <state relative-caret-position="495">
+              <caret line="33" column="63" lean-forward="false" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -357,7 +355,7 @@
       <recent name="com.theah64.jsamples._14_even_odd_thread" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.MouseXY">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="Smiley" type="Applet" factoryName="Applet" temporary="true">
       <option name="WIDTH" value="300" />
       <option name="MAIN_CLASS_NAME" value="com.theah64.jsamples._19_smiley.Smiley" />
@@ -381,14 +379,14 @@
       <module name="jsamples" />
       <method />
     </configuration>
-    <configuration default="false" name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.theah64.jsamples._7_rectangle.*" />
+          <option name="PATTERN" value="com.theah64.jsamples._11_student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.theah64.jsamples._7_rectangle.Rectangle" />
+      <option name="MAIN_CLASS_NAME" value="com.theah64.jsamples._11_student.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -401,14 +399,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.theah64.jsamples._11_student.*" />
+          <option name="PATTERN" value="com.theah64.jsamples._4_triangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.theah64.jsamples._11_student.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.theah64.jsamples._4_triangle.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -788,16 +786,16 @@
       <item index="0" class="java.lang.String" itemvalue="Applet.Smiley" />
       <item index="1" class="java.lang.String" itemvalue="Applet.ListBox" />
       <item index="2" class="java.lang.String" itemvalue="Applet.MouseXY" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Rectangle" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Applet.MouseXY" />
-        <item index="1" class="java.lang.String" itemvalue="Applet.Smiley" />
-        <item index="2" class="java.lang.String" itemvalue="Applet.ListBox" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Rectangle" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Applet.MouseXY" />
+        <item index="2" class="java.lang.String" itemvalue="Applet.Smiley" />
+        <item index="3" class="java.lang.String" itemvalue="Applet.ListBox" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -814,12 +812,12 @@
       <workItem from="1487568169779" duration="2077000" />
       <workItem from="1487579586570" duration="18000" />
       <workItem from="1487894305798" duration="967000" />
-      <workItem from="1487895461670" duration="6332000" />
+      <workItem from="1487895461670" duration="6826000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9394000" />
+    <option name="totallyTimeSpent" value="9888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="24" width="973" height="744" extended-state="6" />
@@ -1069,12 +1067,12 @@
         <state relative-caret-position="330">
           <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="false" />
+            <element signature="e#227#228#0" expanded="false" />
+            <element signature="e#260#261#0" expanded="false" />
+            <element signature="e#334#335#0" expanded="false" />
+            <element signature="e#374#375#0" expanded="false" />
+            <element signature="e#458#459#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1174,8 +1172,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/theah64/jsamples/_4_triangle/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="495">
+          <caret line="33" column="63" lean-forward="false" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
           <folding />
         </state>
       </provider>
