@@ -1,4 +1,4 @@
-package com.theah64.jsamples._18;
+package com.theah64.jsamples._18_listbox;
 
 import java.applet.Applet;
 import java.awt.*;
