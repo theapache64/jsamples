@@ -19,6 +19,7 @@ public class Rectangle extends Applet {
 
     @Override
     public void paint(Graphics g) {
+        setSize(300, 300);
         final int x = Integer.parseInt(getParameter("x"));
         final int y = Integer.parseInt(getParameter("y"));
         final int height = Integer.parseInt(getParameter("height"));
